@@ -29,7 +29,7 @@ To run 0xCipherLink, you need to have the following installed:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/0x4m4/0xCipherLink.git
+    https://github.com/RickyVishwakarma/0xCipherLink.git
     cd 0xCipherLink
     ```
 
