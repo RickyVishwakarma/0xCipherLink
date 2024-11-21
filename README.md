@@ -2,7 +2,7 @@
 
 ## Secure File Transfer Tool
 
-**0xCipherLink**, a secure file transfer tool designed by 0x4m4. This tool ensures your files are transferred safely and confidentially over the network using strong encryption methods.
+**0xCipherLink**, a secure file transfer tool designed by Ricky Vishwakarma. This tool ensures your files are transferred safely and confidentially over the network using strong encryption methods.
 
 ### Features
 
@@ -92,9 +92,7 @@ To run 0xCipherLink, you need to have the following installed:
 - **PBKDF2 with HMAC-SHA256**: Robust key derivation function to secure your password.
 - **IV (Initialization Vector)**: Random IV for each encryption session to ensure uniqueness.
 
-### Screenshot
 
-![Alt text](/screenshot/screenshot.jpg)
 
 ### Disclaimer
 
@@ -108,4 +106,4 @@ For any issues, suggestions, or contributions, feel free to reach out or create 
 
 Thank you for using **0xCipherLink**. Secure your file transfers with confidence!
 
-- **contact@0x4m4.com**
+- **rickyvishwakarma2024@gmail.com**
